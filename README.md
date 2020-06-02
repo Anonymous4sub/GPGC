@@ -1,4 +1,4 @@
-## dGPGC: Gaussian Process with Graph Convolutional Kernel
+## GPGC: Gaussian Process with Graph Convolutional Kernel
 
 This repository contains the tensorflow implementation for GPGC
 
